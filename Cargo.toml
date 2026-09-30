@@ -1,9 +1,11 @@
 [package]
 name = "cfg_analyzer"
 version = "0.1.0"
-description = "A Rust library for Cfg_analyzer"
+description = "Cfg Analyzer — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/cfg_analyzer"
+repository = "https://github.com/SuperInstance/cfg-analyzer"
 edition = "2021"
+
+keywords = ["cfg-analyzer"]
 
 [dependencies]
